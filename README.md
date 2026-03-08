@@ -29,7 +29,9 @@ A lightweight Firefox browser extension that closes tabs the moment you navigate
 5. Navigate to the `shortblocker-firefox` folder and select `manifest.json`
 6. The extension icon will appear in your toolbar ✅
 
-> **Note:** Temporary add-ons are removed when Firefox restarts. For a permanent install, the extension needs to be signed by Mozilla - working on it.
+> **Note:** Temporary add-ons are removed when Firefox restarts. For a permanent install, the extension needs to be signed by Mozilla.
+
+Firefox Add-ons Store Link - https://addons.mozilla.org/en-US/firefox/addon/shortblocker/
 
 ---
 
